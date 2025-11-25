@@ -3,5 +3,4 @@ Indonesia has hundred of insurers in general and life fields, however insurance 
 
 But why boosting? Among other machine learning techniques, boosting is popular for its effectiveness, speed, accuracy, and adjustable parameters. The variation of boosting methods caught my attention and brought question about which one suited best for my data. I use Prudential Life Insurance Assessment 2015 dataset, containing 127 variables relating to customers' risk profile. 
 
-There are two main files that I uploaded here. The first one is the summary of my research covering backgorund, theory, methodology, and results. The second file contain my Python coding for this research. 
-.
+There are two main files that readers can observe here. The first one is the summary of my research covering backgorund, theory, methodology, and results. The second file contains coding draft for this research using Python.
